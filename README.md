@@ -2,7 +2,6 @@
 
 This project involves the analysis of the famous Titanic dataset, exploring passenger information and survival rates. The analysis is carried out using Python, Matplotlib, Seaborn, and a Logistic Regression model.
 
-![Titanic](titanic.jpg)
 
 ## Table of Contents
 
@@ -38,7 +37,6 @@ Using Matplotlib and Seaborn, visualizations are created to better understand th
 - A histogram of passenger ages.
 - A pie chart illustrating the gender distribution on the Titanic.
 
-![Example Plot](example_plot.png)
 
 ## Logistic Regression Model
 
